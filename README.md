@@ -6,7 +6,18 @@ This project demonstrates fully hardware-based neural networks which perform cal
 These fully-stochastic networks operate with the principle of simultaneous forward- and back-propagation, similar to analog or neuromorphic networks.
 
 
-**Fully-Connected Network With Parallel Training**
+**Stochastic Fully-Connected Network With Parallel Training**
 
 This project demonstrates a fully-connected network operating on a sample set of training inputs. The network consists of several parallel networks performing training on multiple training inputs and optimizing a single set of parameters.
 
+**Stochastic Convolutional Network**
+
+Coming soon.
+
+**Stochastic Recurrent Network**
+
+Coming soon.
+
+**Stochastic Adverserial Generative Network**
+
+Coming soon.
