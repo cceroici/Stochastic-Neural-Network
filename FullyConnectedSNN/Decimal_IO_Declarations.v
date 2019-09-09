@@ -1,0 +1,15 @@
+wire [DP_in - 1:0] aD_L0_0, aD_L0_1, aD_L0_2, aD_L0_3, aD_L0_4;
+wire [DP_in-1:0] aD_L0_0_netPar0, aD_L0_0_netPar1, aD_L0_0_netPar2;
+wire [DP_in-1:0] aD_L0_1_netPar0, aD_L0_1_netPar1, aD_L0_1_netPar2;
+wire [DP_in-1:0] aD_L0_2_netPar0, aD_L0_2_netPar1, aD_L0_2_netPar2;
+wire [DP_in-1:0] aD_L0_3_netPar0, aD_L0_3_netPar1, aD_L0_3_netPar2;
+wire [DP_in-1:0] aD_L0_4_netPar0, aD_L0_4_netPar1, aD_L0_4_netPar2;
+wire [DP_out - 1:0] aD_L1_0, aD_L1_1, aD_L1_2, aD_L1_3, aD_L1_4, aD_L1_5, aD_L1_6, aD_L1_7, aD_L1_8, aD_L1_9, aD_L1_10, aD_L1_11, aD_L1_12, aD_L1_13, aD_L1_14, aD_L1_15, aD_L1_16, aD_L1_17, aD_L1_18, aD_L1_19, aD_L1_20, aD_L1_21, aD_L1_22, aD_L1_23, aD_L1_24;
+wire [DP_out - 1:0] aD_L2_0, aD_L2_1, aD_L2_2, aD_L2_3, aD_L2_4, aD_L2_5, aD_L2_6, aD_L2_7;
+wire [DP_out - 1:0] aD_L3_0, aD_L3_1, aD_L3_2, aD_L3_3, aD_L3_4;
+wire [DP_out - 1:0] YD0, YD1, YD2, YD3, YD4;
+wire [DP_out - 1:0] YD0_netPar0, YD0_netPar1, YD0_netPar2;
+wire [DP_out - 1:0] YD1_netPar0, YD1_netPar1, YD1_netPar2;
+wire [DP_out - 1:0] YD2_netPar0, YD2_netPar1, YD2_netPar2;
+wire [DP_out - 1:0] YD3_netPar0, YD3_netPar1, YD3_netPar2;
+wire [DP_out - 1:0] YD4_netPar0, YD4_netPar1, YD4_netPar2;

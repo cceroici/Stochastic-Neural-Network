@@ -1,0 +1,17 @@
+.a_L1_netPar0(a_L1_netPar0), .a_L1_netPar1(a_L1_netPar1), .a_L1_netPar2(a_L1_netPar2),
+	.a_L2_netPar0(a_L2_netPar0), .a_L2_netPar1(a_L2_netPar1), .a_L2_netPar2(a_L2_netPar2),
+	.a_L3_netPar0(a_L3_netPar0), .a_L3_netPar1(a_L3_netPar1), .a_L3_netPar2(a_L3_netPar2),
+	.aD_L0_0_netPar0(aD_L0_0_netPar0), .aD_L0_1_netPar0(aD_L0_1_netPar0), .aD_L0_2_netPar0(aD_L0_2_netPar0), .aD_L0_3_netPar0(aD_L0_3_netPar0), .aD_L0_4_netPar0(aD_L0_4_netPar0), 
+	.aD_L0_0_netPar1(aD_L0_0_netPar1), .aD_L0_1_netPar1(aD_L0_1_netPar1), .aD_L0_2_netPar1(aD_L0_2_netPar1), .aD_L0_3_netPar1(aD_L0_3_netPar1), .aD_L0_4_netPar1(aD_L0_4_netPar1), 
+	.aD_L0_0_netPar2(aD_L0_0_netPar2), .aD_L0_1_netPar2(aD_L0_1_netPar2), .aD_L0_2_netPar2(aD_L0_2_netPar2), .aD_L0_3_netPar2(aD_L0_3_netPar2), .aD_L0_4_netPar2(aD_L0_4_netPar2), 
+	.YD0_netPar0(YD0_netPar0), .YD1_netPar0(YD1_netPar0), .YD2_netPar0(YD2_netPar0), .YD3_netPar0(YD3_netPar0), .YD4_netPar0(YD4_netPar0), 
+	.YD0_netPar1(YD0_netPar1), .YD1_netPar1(YD1_netPar1), .YD2_netPar1(YD2_netPar1), .YD3_netPar1(YD3_netPar1), .YD4_netPar1(YD4_netPar1), 
+	.YD0_netPar2(YD0_netPar2), .YD1_netPar2(YD1_netPar2), .YD2_netPar2(YD2_netPar2), .YD3_netPar2(YD3_netPar2), .YD4_netPar2(YD4_netPar2), 
+	.a_MEM_ACTIVE_L1_netPar0(a_MEM_ACTIVE_L1_netPar0), .a_MEM_ACTIVE_L1_netPar1(a_MEM_ACTIVE_L1_netPar1), .a_MEM_ACTIVE_L1_netPar2(a_MEM_ACTIVE_L1_netPar2),
+	.a_MEM_ACTIVE_L2_netPar0(a_MEM_ACTIVE_L2_netPar0), .a_MEM_ACTIVE_L2_netPar1(a_MEM_ACTIVE_L2_netPar1), .a_MEM_ACTIVE_L2_netPar2(a_MEM_ACTIVE_L2_netPar2),
+	.a_MEM_ACTIVE_L3_netPar0(a_MEM_ACTIVE_L3_netPar0), .a_MEM_ACTIVE_L3_netPar1(a_MEM_ACTIVE_L3_netPar1), .a_MEM_ACTIVE_L3_netPar2(a_MEM_ACTIVE_L3_netPar2),
+	
+	.TRAINING_SET_netPar0(TRAINING_SET_netPar0),
+	.TRAINING_SET_netPar1(TRAINING_SET_netPar1),
+	.TRAINING_SET_netPar2(TRAINING_SET_netPar2),
+	
