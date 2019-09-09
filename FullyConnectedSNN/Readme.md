@@ -7,5 +7,5 @@ The waveform window will show the training progress including the netowork param
 ![Image of Training Window](https://github.com/cceroici/Stochastic-Neural-Network/blob/master/FullyConnectedSNN/readmeImages/trainingProgress.jpg?raw=true)
 
 
-
+The project can also be compiled for an FPGA with some modification of the top-level TOPsim.v file.
 
