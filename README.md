@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="Nv4_gL-3vfwXUrdIIsido1OIj_0Gh0Dh7zMlgUHXljQ" />
+
 # Hardware-Based Stochastic Neural Network Framework
 Fully Hardware-Based Stochastic Neural Network
 
