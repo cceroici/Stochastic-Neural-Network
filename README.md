@@ -6,6 +6,7 @@ This project demonstrates fully hardware-based neural networks which perform cal
 
 These fully-stochastic networks operate with the principle of simultaneous forward- and back-propagation, similar to analog or neuromorphic networks.
 
+**Note: For the high-level code used for generating the necessary HDL for an arbitrary dense/CNN/RNN/GAN model, see [this repository](https://github.com/cceroici/Stochastic-FPGA-Neural-Network-HDL-Generator)**
 
 **Stochastic Fully-Connected Network With Parallel Training**
 
